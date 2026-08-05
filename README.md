@@ -1,6 +1,10 @@
 # 🎲 Markov Chain Analysis of Snakes and Ladders
 
+**Python • Probability Theory • Markov Chains • Mathematical Modelling**
+
 *A probability modelling project exploring stochastic processes using absorbing Markov Chains.*
+
+
 
 ## 📌 Project Overview
 

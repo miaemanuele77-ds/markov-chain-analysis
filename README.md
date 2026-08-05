@@ -10,17 +10,40 @@
 
 This project models the game of Snakes and Ladders as an absorbing Markov Chain to investigate transition probabilities, expected absorption times and the probability of completing the game without returning to the starting square.
 
+## 📈 Project Workflow
+Problem
+
+↓
+
+Transition Matrix
+
+↓
+
+Fundamental Matrix
+
+↓
+
+Expected Coin Flips
+
+↓
+
+Probability Tree
+
+↓
+
+Interpretation
+
 ## 🎯 Objectives
 - Construct a transition matrix.
 - Model the game using an absorbing Markov Chain.
 - Calculate expected absorption times.
 - Analyse the probability of successful completion.
 
-## 🛠 Technologies
+## 🛠 Technologies used
 - Python
 - NumPy
 
-## 🧠 Skills Demonstrated
+## 🧠 Concepts Demonstrated
 - Markov Chains
 - Probability Theory
 - Matrix Algebra
@@ -38,13 +61,20 @@ This project models the game of Snakes and Ladders as an absorbing Markov Chain 
 - Demonstrated that the probability of completing the game from the middle square without returning to the starting square is approximately 28.5%.
 - Reinforced the memoryless property of Markov Chains, where future transitions depend only on the current state.
 
+## 💭 What I Learned
+
+This project was one of the first moments during my MSc where probability theory became more than just mathematics. Building the Markov Chain step by step helped me understand how relatively simple transition probabilities can be used to explain the behaviour of an entire system. It reinforced the importance of looking beyond calculations to interpret what the results actually reveal.
+
 ## 🚀 Future Improvements
 - Larger game boards
 - Monte Carlo simulation
 - Reinforcement Learning
 - Interactive visualisation
 
-## 🌍 About Me
+## 🌍 About the Author
+Mia Emanuele
+
+Data Scientist
 
 **Explaining the world through data.**
 

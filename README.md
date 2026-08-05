@@ -16,12 +16,12 @@ Problem
 ↓
 
 📊Transition Matrix
-![Transition matrix heatmap](images/transition_matrix_heatmap.png)
+![Transition matrix heatmap](markov-chain-analysis/images/transition_matrix_heatmap.png)
 
 ↓
 
 🔄 State-Transition Diagram
-![Markov chain state diagram](images/markov_chain_state_diagram.png)
+![Markov chain state diagram](markov-chain-analysis/images/markov_chain_state_diagram.png)
 
 ↓
 
@@ -30,12 +30,12 @@ Fundamental Matrix
 ↓
 
 Expected Coin Flips
-![Expected coin flips table](images/expected_coin_flips_table.png)
+![Expected coin flips table](markov-chain-analysis/images/expected_coin_flips_table.png)
 
 ↓
 
 🌳Probability Tree
-![Probability tree](images/probability_tree.png)
+![Probability tree](markov-chain-analysis/images/probability_tree.png)
 
 ↓
 

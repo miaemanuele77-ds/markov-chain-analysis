@@ -11,35 +11,35 @@
 This project models the game of Snakes and Ladders as an absorbing Markov Chain to investigate transition probabilities, expected absorption times and the probability of completing the game without returning to the starting square.
 
 ## 📈 Project Workflow
-Problem
+**Problem**
 
 ↓
 
-📊Transition Matrix
+**📊Transition Matrix**
 ![Transition matrix heatmap](markov-chain-analysis/images/transition_matrix_heatmap.png)
 
 ↓
 
-🔄 State-Transition Diagram
+**🔄 State-Transition Diagram**
 ![Markov chain state diagram](markov-chain-analysis/images/markov_chain_state_diagram.png)
 
 ↓
 
-Fundamental Matrix
+**Fundamental Matrix**
 
 ↓
 
-Expected Coin Flips
+**Expected Coin Flips**
 ![Expected coin flips table](markov-chain-analysis/images/expected_coin_flips_table.png)
 
 ↓
 
-🌳Probability Tree
+**🌳Probability Tree**
 ![Probability tree](markov-chain-analysis/images/probability_tree.png)
 
 ↓
 
-Interpretation
+**Interpretation**
 
 ## 🎯 Objectives
 - Construct a transition matrix.

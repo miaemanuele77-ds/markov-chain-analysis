@@ -25,7 +25,7 @@ This project models the game of Snakes and Ladders as an absorbing Markov Chain 
 
 ## 📄 Technical Report
 
-📥 Read the full report
+📥 [Read the full report](report/Markov_Chains_Report.pdf)
 
 ## 💡 Key Findings
 - Successfully modelled Snakes and Ladders as an absorbing Markov Chain, demonstrating how stochastic processes can be represented mathematically.
